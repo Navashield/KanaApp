@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kana App</string>
+    <string name="title_activity_sign_up">signUp</string>
+    <string name="title_activity_sign_in">signIn</string>
+    <string name="title_activity_kana_test">kanaTest</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="signUp">Sign Up</string>
+    <string name="createAcc">Create Account</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="existAcc">Already Have An Account?</string>
+    <string name="TEST">ABC</string>
+    <string name="guest">Guest</string>
+</resources>
